@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element default="1" label="New Field Test 2" max_length="10" name="new_field_test_2" type="integer"/>
+        <element label="New Filed Test 1" max_length="40" name="new_filed_test_1" type="integer"/>
+    </element>
+</database>
